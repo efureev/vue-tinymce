@@ -1,7 +1,8 @@
-import Tinymce from './tinymce.vue'
+import Tinymce from "./tinymce.vue";
 
-function plugin(Vue){
-    if(plugin.installed) return
+function plugin(Vue) {
+    if (plugin.installed) return;
+    
     Vue.component('tinymce', Tinymce)
 }
 

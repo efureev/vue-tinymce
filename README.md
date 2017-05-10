@@ -1,9 +1,9 @@
-# Vue 2.1x Tinymce support
+# Vue 2.3x Tinymce support
 
 [![Latest Stable Version](https://img.shields.io/npm/v/vue-tinymce.svg?style=flat-square)](https://www.npmjs.com/package/vue-tinymce)
 [![NPM Downloads](https://img.shields.io/npm/dt/vue-tinymce.svg?style=flat-square)](https://www.npmjs.com/package/vue-tinymce)
 
-Tinymce support on Vue 2.1x
+Tinymce support on Vue 2.3x
 
 ### Features
 
