@@ -4,7 +4,7 @@
     "email": "montoyajonathans@gmail.com"
   },
   "dependencies": {
-    "tinymce": "^4.6.1",
+    "tinymce": "^4.*",
     "vue": "^2.*"
   },
   "description": "Tinymce support on Vue 2.3.x",
